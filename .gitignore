@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PyCharm
+.idea/
+
+# Temporary projetc files
+all_pods_in_all_ns.txt
+all_pods_in_all_ns.csv
